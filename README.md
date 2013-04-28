@@ -1,7 +1,7 @@
-SDL Server
+SDL Client Server
 ==========
 
-SDL Server: Minimal SDL server on *nix OS.
+SDL Server: Minimal SDL client server on *nix OS.
 Copyright (C) 2013 Shubham Jain.
 
 Installation
@@ -15,6 +15,7 @@ Installation
  sudo make install
  ```
  * Run the program as `sdlserver`
+ * Run the client as 'sdlclient'
  
 License
 --------
