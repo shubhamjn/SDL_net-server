@@ -15,7 +15,7 @@ Installation
  sudo make install
  ```
  * Run the program as `sdlserver`
- * Run the client as 'sdlclient'
+ * Run the client as `sdlclient`
  
 License
 --------
